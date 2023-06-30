@@ -1,4 +1,4 @@
-### Olá! eu sou Therlyson Ryan!👩‍💻
+### Hello! I'm Therlyson Ryan!👩‍💻
 
 ![Theryan GitHub stats](https://github-readme-stats.vercel.app/api?username=Therlyson&show_icons=true&theme=dracula)
 
@@ -15,4 +15,4 @@
 </div>
 <br/>
 
-Apaixonado por tecnologia e estudando programação⚡.
+Enthusiast in new technologies, and seeking to acquire knowledge day after day⚡.
