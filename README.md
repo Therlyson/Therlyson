@@ -1,4 +1,10 @@
 ### Hello! I'm Therlyson Ryan!👩‍💻
+<hr>
+
+<!-- Side -->
+<a href="https://github.com/RonaldGuilhermePDS">![Side](https://github.com/RonaldGuilhermePDS/RonaldGuilhermePDS/blob/master/.GitHub/Side.png?raw=true)</a>
+
+<hr>
 
 ![Theryan GitHub stats](https://github-readme-stats.vercel.app/api?username=Therlyson&show_icons=true&theme=dracula)
 
