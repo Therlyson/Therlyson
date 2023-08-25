@@ -11,6 +11,7 @@
 <div>
   <img height='50em' src='https://cdn.worldvectorlogo.com/logos/c-1.svg'>
   <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-5.svg'>
+  <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
 </div><br/>
 <br/>
 
