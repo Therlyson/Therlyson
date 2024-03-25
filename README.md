@@ -19,9 +19,7 @@
 <br/>
 
 ### Main skills:
-<a href="https://docs.python.org/3/" target="_blank"> <img src="https://i.imgur.com/4oTjHoN.png" width="48" height="48"/></a>
-<a href="http://linguagemc.com.br/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"  width="48" height="48"/></a> 
-<a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,spring,html,css,js,mysql,git,figma&theme=light)](https://skillicons.dev)
 
 
 ### Studying in this moment:
