@@ -19,14 +19,11 @@
 <br/>
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,spring,html,css,js,mysql,git,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,spring,postgres,html,css,js,git)](https://skillicons.dev)
 
 
 ### Studying in this moment:
-<a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/> </a> 
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql,js,ts,angular)](https://skillicons.dev)
 
 
 Enthusiast in new technologies, and seeking to acquire knowledge day after day⚡.
