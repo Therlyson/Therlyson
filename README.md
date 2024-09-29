@@ -19,11 +19,11 @@
 <br/>
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,spring,postgres,html,css,js,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,spring,html,css,js,ts,postgres,mysql,git)](https://skillicons.dev)
 
 
 ### Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=spring,mysql,js,ts,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,docker,mongodb,kotlin,nodejs)](https://skillicons.dev)
 
 
 Enthusiast in new technologies, and seeking to acquire knowledge day after day⚡.
